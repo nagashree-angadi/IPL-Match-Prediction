@@ -4,12 +4,12 @@ Built a statistical model to predict the winners of cricket tournament using pla
 
 The model predicted the winner of matches with an accuracy of about 83%.
 
-# Technologies Used
+## Technologies Used
 1. Python
 2. Hive
 3. Spark
 
-# Steps to Run code
+## Steps to Run code
 
 1. Move the Player vs Player data into Spark
 2. Run python compute_cluster.py to group similar players into clusters and store in Hive.
